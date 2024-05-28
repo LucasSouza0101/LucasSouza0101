@@ -13,9 +13,7 @@ I'm Lucas Souza, a Front-End Programmer actively pursuing knowledge and training
 <br>
 ### Upcoming Technologies:
 <br>
-<br>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript-logo">
-<br>
 <br>
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react=native-logo">
 <h3>Connect With Me:</h3>
