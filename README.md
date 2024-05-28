@@ -12,10 +12,10 @@ I am Lucas, currently learning and working on projects with:
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt='react-logo'>
 <br>
 <h2>Connect With Me:</h2>
-<p>.</p><a href="https://www.linkedin.com/in/lucas-souza-192523207/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin-logo></a>
+<b>•</b><a href="https://www.linkedin.com/in/lucas-souza-192523207/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin-logo></a>
 <br>
 <br>
-<p>.</p><a href="https://www.instagram.com/goodlucas33/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=insta-logo></a>
+<b>•</b><a href="https://www.instagram.com/goodlucas33/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=insta-logo></a>
 <br>
 <br>
 <br>
