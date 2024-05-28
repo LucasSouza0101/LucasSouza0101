@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I am Lucas, currently learning and working on projects with:
+I'm Lucas Souza, a Front-End Programmer actively pursuing knowledge and training to transition into a Full Stack Developer role. Currently learning and working on projects with:
 <br>
 <br>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt='java-logo'>
