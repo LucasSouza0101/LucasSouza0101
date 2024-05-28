@@ -19,7 +19,7 @@ I'm Lucas Souza, a Front-End Programmer actively pursuing knowledge and training
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react=native-logo">
 <br>
 <h3>Connect With Me:</h3>
-<a href="https://www.linkedin.com/in/lucas-souza-192523207/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin-logo ></a>
+<a href="https://www.linkedin.com/lucas-da-silva-de-souza/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin-logo ></a>
 <br>
 <br>
 <a href="https://www.instagram.com/goodlucas33/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=insta-logo></a>
