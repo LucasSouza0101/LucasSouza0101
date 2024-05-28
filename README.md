@@ -13,6 +13,7 @@ I am Lucas, currently learning and working on projects with:
 <br>
 <h2>Connect With Me:</h2>
 <a href="https://www.linkedin.com/in/lucas-souza-192523207/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin-logo></a>
+<br>
 <a href="https://www.instagram.com/goodlucas33/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=insta-logo></a>
 <br>
 <br>
