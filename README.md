@@ -11,7 +11,7 @@ I'm Lucas Souza, a Front-End Programmer actively pursuing knowledge and training
 <br>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt='react-logo'>
 <br>
-<h2>Upcoming Technologies:</h2>
+### Upcoming Technologies:
 <br>
 <br>
 
