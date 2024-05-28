@@ -1,4 +1,4 @@
-### Hello there 🤠
+### Hello there 👋
 
 I am Lucas, currently learning and working on projects with:
 <br>
