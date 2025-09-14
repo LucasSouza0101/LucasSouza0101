@@ -22,10 +22,6 @@ I'm Lucas Souza, a Front-End Programmer actively pursuing knowledge and training
 <a href="https://www.linkedin.com/in/lucas-da-silva-de-souza/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-logo"></a>
 <br>
 <br>
-<a href="https://www.instagram.com/goodlucas33/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="insta-logo"></a>
-<br>
-<br>
-<br>
 
 [![Lucas Stats](https://github-readme-stats.vercel.app/api?username=LucasSouza0101)](https://github.com/anuraghazra/github-readme-stats)
 <br>
